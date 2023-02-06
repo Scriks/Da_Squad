@@ -125,7 +125,7 @@ g = Games()
 
 if game == 'Home':
     st.header('Da Squad')
-
+    st.subheader('Ahla bel Shabeb')
 elif game == 'Spy':
     st.header('Spy Ya Maneyik')
     st.text('''
